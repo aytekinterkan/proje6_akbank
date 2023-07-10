@@ -1,0 +1,18 @@
+* {box-sizing: border-box;}
+
+.container {margin-bottom: 50px;}
+
+.logo {background-color: rgba(128, 128, 128, 0.267);}
+
+.akbank {background-color: rgb(236, 59, 59);}
+
+.inside {
+    display: flex;
+    border:1px solid rgba(128, 128, 128, 0.301);
+    justify-content: space-between;
+    padding: 10px;
+}
+
+
+
+
